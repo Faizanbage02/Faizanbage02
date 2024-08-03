@@ -1,4 +1,4 @@
-[8/3, 11:52 AM] Sneha Frd: <!DOCTYPE html>
+ <!DOCTYPE html>
 <html lang="en">
 
 <head>
